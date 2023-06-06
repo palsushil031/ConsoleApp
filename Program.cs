@@ -8,3 +8,5 @@ b = a / b;   // 10
 a = a / b;   // 20
 
 Console.WriteLine($"value of a = {a} value of b = {b}");
+
+Anagram.AnagramMethod();
