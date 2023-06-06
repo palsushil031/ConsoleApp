@@ -1,0 +1,15 @@
+C:\Users\CB125QA\OneDrive - EY\Desktop\consoleApplication\bin\Debug\net7.0\consoleApplication.exe
+C:\Users\CB125QA\OneDrive - EY\Desktop\consoleApplication\bin\Debug\net7.0\consoleApplication.deps.json
+C:\Users\CB125QA\OneDrive - EY\Desktop\consoleApplication\bin\Debug\net7.0\consoleApplication.runtimeconfig.json
+C:\Users\CB125QA\OneDrive - EY\Desktop\consoleApplication\bin\Debug\net7.0\consoleApplication.dll
+C:\Users\CB125QA\OneDrive - EY\Desktop\consoleApplication\bin\Debug\net7.0\consoleApplication.pdb
+C:\Users\CB125QA\OneDrive - EY\Desktop\consoleApplication\obj\Debug\net7.0\consoleApplication.csproj.AssemblyReference.cache
+C:\Users\CB125QA\OneDrive - EY\Desktop\consoleApplication\obj\Debug\net7.0\consoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CB125QA\OneDrive - EY\Desktop\consoleApplication\obj\Debug\net7.0\consoleApplication.AssemblyInfoInputs.cache
+C:\Users\CB125QA\OneDrive - EY\Desktop\consoleApplication\obj\Debug\net7.0\consoleApplication.AssemblyInfo.cs
+C:\Users\CB125QA\OneDrive - EY\Desktop\consoleApplication\obj\Debug\net7.0\consoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\CB125QA\OneDrive - EY\Desktop\consoleApplication\obj\Debug\net7.0\consoleApplication.dll
+C:\Users\CB125QA\OneDrive - EY\Desktop\consoleApplication\obj\Debug\net7.0\refint\consoleApplication.dll
+C:\Users\CB125QA\OneDrive - EY\Desktop\consoleApplication\obj\Debug\net7.0\consoleApplication.pdb
+C:\Users\CB125QA\OneDrive - EY\Desktop\consoleApplication\obj\Debug\net7.0\consoleApplication.genruntimeconfig.cache
+C:\Users\CB125QA\OneDrive - EY\Desktop\consoleApplication\obj\Debug\net7.0\ref\consoleApplication.dll
